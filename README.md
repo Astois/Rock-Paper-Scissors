@@ -1,0 +1,1 @@
+Build a rock-paper-scissors game where the user plays against the computer. Generate the computer's choice randomly and use conditional statements to determine the winner. Display the outcome and allow the user to play again.
